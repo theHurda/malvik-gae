@@ -35,7 +35,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.pany.your.MainClass</mainClass>
+                            <mainClass>Malvik</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
